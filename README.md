@@ -68,3 +68,8 @@ This project uses the following dependencies:
 ## Demo
 
 https://facedetection.epcm18.repl.co/
+
+## FaceRecognition
+
+I've created a face recognition system also using face-api.js.
+[https://github.com/epcm18/FaceRecognition]
