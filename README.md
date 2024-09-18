@@ -4,7 +4,8 @@ This project demonstrates how to set up real-time face detection using AI in a w
 
 ## Results
 
-![image](./3.jpg)
+![image1](./1.jpg)
+![image2](./2.jpg)
 
 ## Concepts You will learn:
 
