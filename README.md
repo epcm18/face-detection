@@ -72,7 +72,7 @@ This project uses the following dependencies:
 
 ## Demo
 
-https://facedetection.epcm18.repl.co/
+[https://facedetection.epcm18.repl.co/](https://face-detection-epcm18.netlify.app/)
 
 ## FaceRecognition
 
